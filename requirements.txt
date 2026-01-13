@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+python-dotenv
+pymongo
+
+openai==0.28.1
+
+python-multipart
+starlette
+
+fpdf
+python-docx
+
+serpapi
+requests
